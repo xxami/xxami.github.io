@@ -1,11 +1,11 @@
 type: page
-title: "关于作者"
+title: "🎀  /  L I L A H"
 author: me
 
 ---
 
-## 纸小墨
+## About me
 
-构建只为纯粹书写的博客。
+Weebish developer living in Bristol, UK.
 
-[http://www.chole.io/](http://www.chole.io/)
+[https://github.com/xxami/](https://github.com/xxami/)

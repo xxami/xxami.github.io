@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>🎀 L I L A H</title>
+  <title>🎀  /  L I L A H</title>
   <id>https://xxami.github.io</id>
-  <updated>2021-05-15T15:26:07+01:00</updated>
+  <updated>2021-05-15T16:23:51+01:00</updated>
   <subtitle>Another devblog</subtitle>
   <link href="https://xxami.github.io"></link>
   <author>
-    <name>🎀 L I L A H</name>
+    <name>🎀  /  L I L A H</name>
   </author>
   <entry>
-    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:xxami.github.io,2016-07-11:/ink-blog-tool.html</id>
-    <content type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</content>
-    <link href="https://xxami.github.io/ink-blog-tool.html"></link>
-    <author>
-      <name>ˡ ᶦ ˡ ᵃ ʰ</name>
-    </author>
-  </entry>
-  <entry>
-    <title>An Elegant Static Blog Generator —— InkPaper</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:xxami.github.io,2016-07-11:/ink-blog-tool-en.html</id>
-    <content type="html">&lt;p&gt;InkPaper is an static blog generator developed by Golang, No dependencies, Cross platform, Easy use, Fast build, Elegant theme.&lt;/p&gt;&#xA;</content>
-    <link href="https://xxami.github.io/ink-blog-tool-en.html"></link>
+    <title>Welcome to this page</title>
+    <updated>2021-05-15T16:00:00+08:00</updated>
+    <id>tag:xxami.github.io,2021-05-15:/first.html</id>
+    <content type="html">&lt;p&gt;This is a test post. Can you see me?&lt;/p&gt;&#xA;</content>
+    <link href="https://xxami.github.io/first.html"></link>
     <author>
       <name>ˡ ᶦ ˡ ᵃ ʰ</name>
     </author>
