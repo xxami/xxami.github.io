@@ -1,5 +1,5 @@
 ## xxami.github.io
-Zola based personal dev blog
+Zola based personal dev blog [[xxami.github.io](https://xxami.github.io/)]
 
 ## Requirements
 - node.js / npx
