@@ -1,5 +1,6 @@
 require('../css/index.css')
 window.jQuery = window.$ = require('jquery')
+require('jquery-migrate')
 window.hljs = require('./highlight.pack.js')
 require('./jquery.unveil.js')
 
@@ -93,7 +94,7 @@ var initSearch = function() {
       var keyword = event.data.keyword
       if (keyword) {
         $('.page-nav').hide()
-        $('.article-list').html('<div class="empty">未搜索到 "<span>' + keyword + '</span>"</div>')
+        $('.article-list').html('<div class="empty">Could not find "<span>' + keyword + '</span>"</div>')
       } else {
         $('.page-nav').show()
         $('.article-list').html(oriHtml)
